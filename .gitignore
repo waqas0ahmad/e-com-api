@@ -1,0 +1,6 @@
+node_modules/
+bin/
+public/**/*
+api.zip
+package-lock.json
+logs/**/*
